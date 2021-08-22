@@ -1,0 +1,20 @@
+{
+  "name": "codingtrainpoll",
+  "version": "1.0.0",
+  "description": "This is a simple poll app made for coding train",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "poll",
+    "numbers",
+    "server"
+  ],
+  "author": "iKittyCode",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
